@@ -99,4 +99,41 @@ Statistics is the science of collecting, organizing, analyzing, interpreting, an
 
 ## Inferential
 
-Inferential statistics uses sample data to draw conclusions, test hypotheses, and make predictions about a larger population
+Inferential statistics uses sample data to draw conclusions, test hypotheses, and make predictions about a larger population.
+
+Inferential Statistics is a statistical field that employs analytical tools to draw conclusions about a population by analyzing random samples.
+
+### Types of Inferential Statistics
+
+**1) Hypothesis Testing**
+
+    Hypothesis testing is a formal statistical method used to determine if sample data provides sufficient evidence to support a specific claim about a population
+
+    Hypothesis testing is a method that compares two opposite assumptions about a population and uses data from a sample to determine which assumption is more likely to be true.
+
+**2) Regression Analysis**
+
+    Regression analysis is a powerful statistical method used in data science and business to estimate the relationship between a dependent variable (target) and one or more independent variables (predictors)
+
+
+
+### Hypothesis Testing 
+
+    For example, if a company says its website gets 50 visitors each day on average, we use hypothesis testing to look at past visitor data and see if this claim is true or if the actual number is different.
+
+#### Defining Hypothesis : 
+
+- null hypothesis (H0) is a fundamental statistical assumption that there is no effect, no relationship, or no difference between two measured variables or groups. The starting assumption. For example, "The average visits are 50."
+
+- Alternative Hypothesis (H₁) It is the opposite to null, saying there is a difference. For example, "The average visits are not 50."
+
+- Significance Level (α): How sure we want to be before saying the claim is false. Usually, we choose 0.05 (5%). It is predetermined threshold used in hypothesis testing.
+
+- p-value (probability value):  measures the probability of obtaining test results as the observed results, assuming the null hypothesis is true. If this is less than α, we say the claim is probably false.
+
+- Test Statistic: A number that helps us decide if the data supports or rejects the claim. a single numerical value calculated from sample data during a hypothesis test, used to measure how closely observed data matches the null hypothesis.
+
+- Critical value is a cut-off value used to mark the beginning of a region where the test statistic obtained in the theoretical test is unlikely to fail.
+
+- Degrees of freedom: A number that depends on the data size and helps find the critical value.
+
